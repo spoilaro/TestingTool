@@ -1,3 +1,14 @@
 ls
 grep
 man
+ping
+ps
+apt
+cat
+top
+sudo
+ssh
+sudo apt get
+nvim
+nano ./file.txt
+ls -la
