@@ -11,4 +11,3 @@ sshhh
 sudooo apt get
 nvimmm 
 nanno ./file.txt
-ls -lf

@@ -11,4 +11,3 @@ ssh
 sudo apt get
 nvim
 nano ./file.txt
-ls -la
