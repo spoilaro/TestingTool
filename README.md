@@ -1,5 +1,8 @@
 # Testing tool for thefuck
 
+## Important
+This tool only works in Linux environment since the provided testing commands are unix commands
+
 ## Installation and usage
 - Clone the repository
 - cd into root of the repository
