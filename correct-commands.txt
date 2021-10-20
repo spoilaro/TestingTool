@@ -9,5 +9,5 @@ top
 sudo
 ssh
 sudo apt get
-nvim
+vim
 nano ./file.txt

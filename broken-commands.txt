@@ -9,5 +9,5 @@ tp
 sd
 sshhh
 sudooo apt get
-nvimmm 
+vvimmm 
 nanno ./file.txt
